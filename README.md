@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://vuejs.org/" target="_blank"><img src="./assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>   
 &nbsp; <a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass-original.svg" alt="Sass" height="50" /></a>
 &nbsp; <a href="http://getbem.com/" target="_blank"><img src="./assets/bem.svg" alt="BEM" height="50" /></a> 
-&nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   
+&nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+<br/><br/>  
 &nbsp; <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="./assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 &nbsp; <a href="https://mui.com/" target="_blank"><img src="./assets/mui.png" alt="Material UI" height="50" /></a>
-<br/><br/>
 &nbsp; <a href="https://ui.shadcn.com/" target="_blank"><picture height="50" >
 <source media="(prefers-color-scheme: dark)" height="50"  srcset="./assets/shadcnui-dark.svg.svg">
 <source media="(prefers-color-scheme: light)" height="50"  srcset="./assets/shadcnui.svg">
@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://react.semantic-ui.com/" target="_blank"><img src="./assets/semantic-ui.svg" alt="Material UI" height="50" /></a>    
 &nbsp; <a href="https://nextjs.org/" target="_blank"><img src="./assets/nextjs.png" alt="NextJS" height="50" /></a>
 &nbsp; <a href="https://wordpress.com/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
+<br/><br/>
 &nbsp; <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
-&nbsp; <a href="https://jquery.com/" target="_blank"><img src="./assets/jquery.png" alt="jQuery" height="50" /></a> 
+<!-- &nbsp; <a href="https://jquery.com/" target="_blank"><img src="./assets/jquery.png" alt="jQuery" height="50" /></a>  -->
 &nbsp; <a href="https://www.figma.com/" target="_blank"><img src="./assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 &nbsp; <a href="https://www.adobe.com/creativecloud.html" target="_blank"><img src="./assets/adobe-creative-cloud-svgrepo-com.svg" alt="Adobe Creative Cloud" height="50" /></a>
 &nbsp; <a href="https://storybook.js.org/" target="_blank"><img src="./assets/storybook-icon.svg" alt="Storybook" height="50" /></a>  
