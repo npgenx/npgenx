@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ## My Skills Set
 ### Languages
 <div style="display: table-cell; vertical-align: middle;">  
-<a href="https://www.javascript.com/" target="_blank"><img src="./assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+&nbsp; <a href="https://ecma-international.org/technical-committees/tc39/" target="_blank"><img src="./assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 &nbsp; <a href="https://www.typescriptlang.org/" target="_blank"><img src="./assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
-&nbsp; <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="./assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"><img src="./assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+&nbsp; <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="./assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+&nbsp; <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="./assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 &nbsp; <a href="https://www.php.net/" target="_blank"><img src="./assets/php-original.svg" alt="PHP" height="50" /></a>
 </div>
 <br/>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img src="./assets/shadcnui.svg" alt="shadcn UI" height="50" /></picture></a>    
 &nbsp; <a href="https://react.semantic-ui.com/" target="_blank"><img src="./assets/semantic-ui.svg" alt="Material UI" height="50" /></a>    
 &nbsp; <a href="https://nextjs.org/" target="_blank"><img src="./assets/nextjs.png" alt="NextJS" height="50" /></a>
-&nbsp; <a href="https://wordpress.com/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
+&nbsp; <a href="https://wordpress.org/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
 <br/><br/>
 &nbsp; <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 <!-- &nbsp; <a href="https://jquery.com/" target="_blank"><img src="./assets/jquery.png" alt="jQuery" height="50" /></a>  -->
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <img alt="Express.js" src="./assets/express-original-wordmark.svg">
 </picture></a>
 &nbsp; <a href="https://nextjs.org/" target="_blank"><img src="./assets/nextjs.png" alt="NextJS" height="50" /></a>
-&nbsp; <a href="https://wordpress.com/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
+&nbsp; <a href="https://wordpress.org/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
 &nbsp; <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 </div>
 <br/>
@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.mysql.com/" target="_blank"><img src="./assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 &nbsp; <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 &nbsp; <a href="https://redis.io/" target="_blank"><img src="./assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a> 
-&nbsp; <a href="https://firebase.google.com/" target="_blank"><img src="./assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 <br/>
 
@@ -90,11 +89,12 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.docker.com/" target="_blank"><img src="./assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 &nbsp; <a href="https://aws.amazon.com/" target="_blank"><img src="./assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 &nbsp; <a href="https://cloud.google.com/" target="_blank"><img src="./assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
+&nbsp; <a href="https://firebase.google.com/" target="_blank"><img src="./assets/firebase.png" alt="Firebase" height="50" /></a>  
 &nbsp; <a href="https://about.gitlab.com/" target="_blank"><img src="./assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 &nbsp; <a href="https://www.jenkins.io/" target="_blank"><img src="./assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
 <br/><br/>
 &nbsp; <a href="https://git-scm.com/" target="_blank"><img src="./assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-&nbsp; <a href="https://docs.github.com/en/pages" target="_blank"><picture height="50" >
+&nbsp; <a href="https://docs.github.com/en/actions" target="_blank"><picture height="50" >
 <source media="(prefers-color-scheme: dark)" height="50" margin="30px" padding="30px" srcset="./assets/github-mark-white.svg">
 <source media="(prefers-color-scheme: light)" height="50" margin="30px" padding="30px" srcset="./assets/github-mark.svg">
 <img alt="Guithub Actions" src="./assets/github-mark.svg">
