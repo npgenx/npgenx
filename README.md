@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Frontend / Design 
 <div style="display: table-cell; vertical-align: middle;">  
-&nbsp; <a href="https://reactjs.org/" target="_blank"  style="margin: 20px; padding:20px; " margin="20px"><img src="./assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+&nbsp; <a href="https://reactjs.org/" target="_blank"><img src="./assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 &nbsp; <a href="https://redux.js.org/" target="_blank"><img src="./assets/redux-original.svg" alt="Redux" height="50" /></a>
 &nbsp; <a href="https://vuejs.org/" target="_blank"><img src="./assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>   
 &nbsp; <a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass-original.svg" alt="Sass" height="50" /></a>
@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="./assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 &nbsp; <a href="https://mui.com/" target="_blank"><img src="./assets/mui.png" alt="Material UI" height="50" /></a>
 <br/><br/>
+&nbsp; <a href="https://ui.shadcn.com/" target="_blank"><picture height="50" >
+<source media="(prefers-color-scheme: dark)" height="50"  srcset="./assets/shadcnui-dark.svg.svg">
+<source media="(prefers-color-scheme: light)" height="50"  srcset="./assets/shadcnui.svg">
+<img src="./assets/shadcnui.svg" alt="shadcn UI" height="50" /></picture></a>    
 &nbsp; <a href="https://react.semantic-ui.com/" target="_blank"><img src="./assets/semantic-ui.svg" alt="Material UI" height="50" /></a>    
 &nbsp; <a href="https://nextjs.org/" target="_blank"><img src="./assets/nextjs.png" alt="NextJS" height="50" /></a>
 &nbsp; <a href="https://wordpress.com/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
@@ -89,8 +93,10 @@ Here are some ideas to get you started:
 </picture></a>
 &nbsp; <a href="https://httpd.apache.org/" target="_blank"><img src="./assets/Apache_HTTP_server_logo_(2019-present).svg" alt="Apache HTTPserver" height="50" /></a>
 &nbsp; <a href="https://www.nginx.com/" target="_blank"><img src="./assets/nginx-original.svg" alt="Nginx" height="50" /></a>    
+<br/><br/>
 &nbsp; <a href="https://gulpjs.com/" target="_blank"><img src="./assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
-&nbsp; <a href="https://webpack.js.org/" target="_blank"><img src="./assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+&nbsp; <a href="https://webpack.js.org/" target="_blank"><img src="./assets/webpack-original.svg" alt="Webpack" height="50" /></a>
+&nbsp; <a href="https://vite.dev/" target="_blank"><img src="./assets/Vitejs-logo.svg" alt="Webpack" height="50" /></a>  
 </div>
 
 
