@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 <img alt="Guithub Actions" src="./assets/github-mark.svg">
 </picture></a>
 &nbsp; <a href="https://httpd.apache.org/" target="_blank"><img src="./assets/Apache_HTTP_server_logo_(2019-present).svg" alt="Apache HTTPserver" height="50" /></a>
-&nbsp; <a href="https://www.nginx.com/" target="_blank"><img src="./assets/nginx-original.svg" alt="Nginx" height="50" /></a>    
+&nbsp; <a href="https://nginx.org/" target="_blank"><img src="./assets/nginx-original.svg" alt="Nginx" height="50" /></a>    
 <br/><br/>
 &nbsp; <a href="https://gulpjs.com/" target="_blank"><img src="./assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
 &nbsp; <a href="https://webpack.js.org/" target="_blank"><img src="./assets/webpack-original.svg" alt="Webpack" height="50" /></a>
