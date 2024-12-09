@@ -1,3 +1,7 @@
+<div align=center>
+<img src="./assets/banksy2.a.png" alt="banksy revisited" width="100%">
+</div>
+
 ## Hi there, it's J.P. 👋
 - 🔭 I’m currently sitting on a rock speeding 67,000 mph around the sun.
 - 📫 How to reach me: ...
@@ -27,6 +31,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.w3schools.com/css/" target="_blank"><img src="./assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 &nbsp; <a href="https://www.php.net/" target="_blank"><img src="./assets/php-original.svg" alt="PHP" height="50" /></a>
 </div>
+<br/>
 
 ### Frontend / Design 
 <div style="display: table-cell; vertical-align: middle;">  
@@ -53,6 +58,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.adobe.com/creativecloud.html" target="_blank"><img src="./assets/adobe-creative-cloud-svgrepo-com.svg" alt="Adobe Creative Cloud" height="50" /></a>
 &nbsp; <a href="https://storybook.js.org/" target="_blank"><img src="./assets/storybook-icon.svg" alt="Storybook" height="50" /></a>  
 </div>
+<br/>
 
 ### Backend
 <div style="display: table-cell; vertical-align: middle;">  
@@ -65,8 +71,8 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://nextjs.org/" target="_blank"><img src="./assets/nextjs.png" alt="NextJS" height="50" /></a>
 &nbsp; <a href="https://wordpress.com/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" height="50" /></a>
 &nbsp; <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
-
 </div>
+<br/>
 
 ### Databases
 <div style="display: table-cell; vertical-align: middle;"> 
@@ -76,6 +82,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://redis.io/" target="_blank"><img src="./assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a> 
 &nbsp; <a href="https://firebase.google.com/" target="_blank"><img src="./assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
+<br/>
 
 ### DevOps / Tools
 <div style="display: table-cell; vertical-align: middle;">  
@@ -99,9 +106,3 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://webpack.js.org/" target="_blank"><img src="./assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 &nbsp; <a href="https://vite.dev/" target="_blank"><img src="./assets/Vitejs-logo.svg" alt="Webpack" height="50" /></a>  
 </div>
-
-
-
-
-
-
