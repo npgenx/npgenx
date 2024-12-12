@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://nodejs.org/" target="_blank"><picture height="28" >
 <source media="(prefers-color-scheme: dark)" height="28"  srcset="./assets/nodejs-dark.svg">
 <source media="(prefers-color-scheme: light)" height="28"  srcset="./assets/nodejs.svg">
-<img alt="Node JS" title="Node JS  src="./assets/nodejs.svg"></picture></a> 
+<img alt="Node JS" title="Node JS"  src="./assets/nodejs.svg"></picture></a> 
 &nbsp; <a href="https://expressjs.com/" target="_blank"><picture height="28" >
 <source media="(prefers-color-scheme: dark)" height="28"  srcset="./assets/express-original-wordmark-dark.svg">
 <source media="(prefers-color-scheme: light)" height="28"  srcset="./assets/express-original-wordmark.svg">
-<img alt="Express.js"alt="Extitless.js  src="./assets/express-original-wordmark.svg"></picture></a>
+<img alt="Express.js" title="Express.js"  src="./assets/express-original-wordmark.svg"></picture></a>
 &nbsp; <a href="https://nextjs.org/" target="_blank"><img src="./assets/nextjs.png" alt="NextJS" title="NextJS" height="28" /></a>
 &nbsp; <a href="https://wordpress.org/" target="_blank"><img src="./assets/wordpress.png" alt="WordPress" title="WordPress" height="28" /></a>
 &nbsp; <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" height="28" /></a>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://aws.amazon.com/" target="_blank"><picture height="28" >
 <source media="(prefers-color-scheme: dark)" height="28"  srcset="./assets/amazonwebservices-dark.svg">
 <source media="(prefers-color-scheme: light)" height="28"  srcset="./assets/amazonwebservices-original-wordmark.svg">
-<img src="./assets/amazonwebservices-original-wordmark.svg" alt="Amazon Web title="Amazon Web Services" height="28" /></picture></a>  
+<img src="./assets/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services" height="28" /></picture></a>  
 &nbsp; <a href="https://cloud.google.com/" target="_blank"><img src="./assets/google_cloud-icon.svg" alt="GCP" title="GCP" height="28" /></a>
 &nbsp; <a href="https://firebase.google.com/" target="_blank"><img src="./assets/firebase.png" alt="Firebase" title="Firebase" height="28" /></a>  
 &nbsp; <a href="https://about.gitlab.com/" target="_blank"><img src="./assets/gitlab.svg" alt="GitLab" title="GitLab" height="28" /></a>  
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://docs.github.com/en/actions" target="_blank"><picture height="28" >
 <source media="(prefers-color-scheme: dark)" height="28" margin="30px" padding="30px" srcset="./assets/github-mark-white.svg">
 <source media="(prefers-color-scheme: light)" height="28" margin="30px" padding="30px" srcset="./assets/github-mark.svg">
-<img alt="Guithub Actions" title="Guithub Actions  src="./assets/github-mark.svg">
+<img alt="Guithub Actions" title="Guithub Actions"  src="./assets/github-mark.svg">
 </picture></a>
 &nbsp; <a href="https://httpd.apache.org/" target="_blank"><img src="./assets/Apache_HTTP_server_logo_(2019-present).svg" alt="Apache HTTPserver" title="Apache HTTPserver"  height="28" /></a>
 &nbsp; <a href="https://nginx.org/" target="_blank"><img src="./assets/nginx-original.svg" alt="Nginx" title="Nginx" height="28" /></a>    
