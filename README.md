@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <div style="display: table-cell; vertical-align: middle;">  
 &nbsp; <a href="https://reactjs.org/" target="_blank"><img src="./assets/react-original-wordmark.svg" alt="React" title="React" height="28" /></a>  
 &nbsp; <a href="https://redux.js.org/" target="_blank"><img src="./assets/redux-original.svg" alt="Redux" title="Redux" height="28" /></a>
-&nbsp; <a href="https://vuejs.org/" target="_blank"><img src="./assets/vuejs-original-wordmark.svg" alt="Vue.js"alttitleue.js  height="28" /></a>   
+&nbsp; <a href="https://vuejs.org/" target="_blank"><img src="./assets/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js"   height="28" /></a>   
 &nbsp; <a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass-original.svg" alt="Sass" title="Sass" height="28" /></a>
 &nbsp; <a href="http://getbem.com/" target="_blank"><img src="./assets/bem.svg" alt="BEM" title="BEM" height="28" /></a> 
 &nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img src="./assets/tailwindcss.svg" alt=" Tailwind CSS" title="Tailwind CSS"  height="28" /></a>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://laravel.com/" target="_blank"><img src="./assets/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" height="28" /></a>
 <!-- &nbsp; <a href="https://jquery.com/" target="_blank"><img src="./assets/jquery.png" alt="jQuery" title="jQuery" height="28" /></a>  -->
 &nbsp; <a href="https://www.figma.com/" target="_blank"><img src="./assets/figma-icon.svg" alt="Figma" title="Figma" height="28" /></a>  
-&nbsp; <a href="https://www.adobe.com/creativecloud.html" target="_blank"><img src="./assets/adobe-creative-cloud-svgrepo-com.svg" alt="Adobe Creative title="Adobe Creative Cloud" height="28" /></a>
+&nbsp; <a href="https://www.adobe.com/creativecloud.html" target="_blank"><img src="./assets/adobe-creative-cloud-svgrepo-com.svg" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" height="28" /></a>
 &nbsp; <a href="https://storybook.js.org/" target="_blank"><img src="./assets/storybook-icon.svg" alt="Storybook" title="Storybook" height="28" /></a>  
 </div>
 <br/>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 </picture></a>
 &nbsp; <a href="https://httpd.apache.org/" target="_blank"><img src="./assets/Apache_HTTP_server_logo_(2019-present).svg" alt="Apache HTTPserver" title="Apache HTTPserver"  height="28" /></a>
 &nbsp; <a href="https://nginx.org/" target="_blank"><img src="./assets/nginx-original.svg" alt="Nginx" title="Nginx" height="28" /></a>    
-&nbsp; <a href="https://gulpjs.com/" target="_blank"><img src="./assets/gulp-plain.svg" alt="gulp.js"alt=titlelp.js  height="28" /></a>  
+&nbsp; <a href="https://gulpjs.com/" target="_blank"><img src="./assets/gulp-plain.svg" alt="gulp.js" title="Gulp"  height="28" /></a>  
 &nbsp; <a href="https://webpack.js.org/" target="_blank"><img src="./assets/webpack-original.svg" alt="Webpack" title="Webpack" height="28" /></a>
-&nbsp; <a href="https://vite.dev/" target="_blank"><img src="./assets/Vitejs-logo.svg" alt="Webpack" title="Webpack" height="28" /></a>  
+&nbsp; <a href="https://vite.dev/" target="_blank"><img src="./assets/Vitejs-logo.svg" alt="Vite" title="Vite" height="28" /></a>  
 </div>
