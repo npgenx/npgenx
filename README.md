@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>
 &nbsp; <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="./assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 &nbsp; <a href="https://mui.com/" target="_blank"><img src="./assets/mui.png" alt="Material UI" height="25" /></a>
-<br/><br/>  
 &nbsp; <a href="https://ui.shadcn.com/" target="_blank"><picture height="25" >
 <source media="(prefers-color-scheme: dark)" height="25"  srcset="./assets/shadcnui-dark.svg">
 <source media="(prefers-color-scheme: light)" height="25"  srcset="./assets/shadcnui.svg">
@@ -77,7 +76,7 @@ Here are some ideas to get you started:
 
 ### Databases
 <div style="display: table-cell; vertical-align: middle;"> 
-&nbsp; <a href="https://www.postgresql.org/" target="_blank"><img src="./assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
+&nbsp; <a href="https://www.postgresql.org/" target="_blank"><img src="./assets/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="25" /></a>
 &nbsp; <a href="https://www.mysql.com/" target="_blank"><img src="./assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a> 
 &nbsp; <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 &nbsp; <a href="https://redis.io/" target="_blank"><img src="./assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a> 
@@ -97,7 +96,6 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://about.gitlab.com/" target="_blank"><img src="./assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 &nbsp; <a href="https://www.jenkins.io/" target="_blank"><img src="./assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>
 &nbsp; <a href="https://git-scm.com/" target="_blank"><img src="./assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<br/><br/>
 &nbsp; <a href="https://docs.github.com/en/actions" target="_blank"><picture height="25" >
 <source media="(prefers-color-scheme: dark)" height="25" margin="30px" padding="30px" srcset="./assets/github-mark-white.svg">
 <source media="(prefers-color-scheme: light)" height="25" margin="30px" padding="30px" srcset="./assets/github-mark.svg">
