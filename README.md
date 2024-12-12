@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="./assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 &nbsp; <a href="https://mui.com/" target="_blank"><img src="./assets/mui.png" alt="Material UI" height="50" /></a>
 &nbsp; <a href="https://ui.shadcn.com/" target="_blank"><picture height="50" >
-<source media="(prefers-color-scheme: dark)" height="50"  srcset="./assets/shadcnui-dark.svg.svg">
+<source media="(prefers-color-scheme: dark)" height="50"  srcset="./assets/shadcnui-dark.svg">
 <source media="(prefers-color-scheme: light)" height="50"  srcset="./assets/shadcnui.svg">
 <img src="./assets/shadcnui.svg" alt="shadcn UI" height="50" /></picture></a>    
 &nbsp; <a href="https://react.semantic-ui.com/" target="_blank"><img src="./assets/semantic-ui.svg" alt="Material UI" height="50" /></a>    
