@@ -38,6 +38,10 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://reactjs.org/" target="_blank"><img src="./assets/react-original-wordmark.svg" alt="React" title="React" height="30" /></a>  
 &nbsp; <a href="https://redux.js.org/" target="_blank"><img src="./assets/redux-original.svg" alt="Redux" title="Redux" height="30" /></a>
 &nbsp; <a href="https://vuejs.org/" target="_blank"><img src="./assets/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js"   height="30" /></a>   
+&nbsp; <a href="https://astro.build/" target="_blank"><picture height="30" >
+<source media="(prefers-color-scheme: dark)" height="30"  srcset="./assets/astro-icon-light-gradient.svg">
+<source media="(prefers-color-scheme: light)" height="30"  srcset="./assets/astro-icon-dark.svg">
+<img alt="Astro" title="Astro"  src="./assets/astro-icon-light-gradient.svg"></picture></a>
 &nbsp; <a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass-original.svg" alt="Sass" title="Sass" height="30" /></a>
 &nbsp; <a href="http://getbem.com/" target="_blank"><img src="./assets/bem.svg" alt="BEM" title="BEM" height="30" /></a> 
 &nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img src="./assets/tailwindcss.svg" alt=" Tailwind CSS" title="Tailwind CSS"  height="30" /></a>
